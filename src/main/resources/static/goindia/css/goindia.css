@@ -1,0 +1,15 @@
+.header {
+    position: fixed;
+    width: 100%;
+    color: white;
+    alignment: center;
+}
+
+.title {
+    margin-top: 10px;
+    alignment: center;
+    font-size: 24pt;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-weight: bold;
+}
+
