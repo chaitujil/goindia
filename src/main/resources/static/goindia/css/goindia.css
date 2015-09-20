@@ -3,13 +3,23 @@
     width: 100%;
     color: white;
     alignment: center;
+    background-color: lightblue;
 }
 
 .title {
-    margin-top: 10px;
     alignment: center;
     font-size: 24pt;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-weight: bold;
+}
+
+.header-tabs {
+    font-size: 16pt;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.header-search {
+    font-size: 16pt;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
